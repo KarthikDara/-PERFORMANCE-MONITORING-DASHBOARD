@@ -29,3 +29,7 @@ Grafana/Kibana – If visualizing logs and metrics from Elasticsearch.
 IIS (Internet Information Services) – For on-premise hosting.
 Azure App Service – If deploying on Microsoft Azure.
 Docker + Kubernetes – If containerizing the .NET application.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/cc214ba0-55c9-4247-9895-ed68ca40e34e)
